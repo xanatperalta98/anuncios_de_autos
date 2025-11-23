@@ -20,3 +20,16 @@ Aplicación desarrollada en **Streamlit** para realizar análisis exploratorio d
 1. **Clona este repositorio**
    ```bash
    git clone https://github.com/xanatperalta98/anuncios_de_autos.git
+2. Entra al directorio
+
+   cd anuncios_de_autos
+
+
+3. Instala las dependencias
+
+   pip install -r requirements.txt
+
+
+4. Ejecuta la aplicación
+
+   streamlit run app.py
